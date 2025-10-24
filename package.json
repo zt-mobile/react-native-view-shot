@@ -1,5 +1,5 @@
 {
-  "name": "react-native-view-shot",
+  "name": "@zt-mobile/react-native-view-shot",
   "version": "3.1.7",
   "description": "Capture a React Native view to an image",
   "main": "src/index.js",
@@ -12,12 +12,12 @@
     "snapshot",
     "rasterize"
   ],
-  "author": "Gaëtan Renaudeau <renaudeau.gaetan@gmail.com>",
-  "homepage": "https://github.com/gre/react-native-view-shot",
+  "author": "ztm",
+  "homepage": "https://github.com/zt-mobile/react-native-view-shot",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gre/react-native-view-shot.git"
+    "url": "https://github.com/zt-mobile/react-native-view-shot.git"
   },
   "peerDependencies": {
     "react": "*",
